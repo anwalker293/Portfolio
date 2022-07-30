@@ -1,2 +1,2 @@
-# first-potential-portfolio
-First potential portfolio website
+# Portfolio Website
+Currently in progress of being made
