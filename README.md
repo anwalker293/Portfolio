@@ -1,2 +1,2 @@
 # Portfolio Website
-Currently in progress of being made
+Heavily under construction at the moment (7/30/2022)
