@@ -1,0 +1,102 @@
+div.Attributes {
+  padding-right: 10em;
+  padding-left: 10em;
+}
+
+/*h2 {
+	font-style: italic;
+	font-size: 80%;
+}*/
+
+a.Work  {
+	font-weight: 700;
+	word-spacing: 1000px;
+}
+
+div.Name {
+	color:  white;
+}
+
+img {
+  border-radius: 50%;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article.name {
+	color: white;
+}
+
+img.IG {
+	width: 15px;
+}
+
+div.Spacing {
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+div.Skills {
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+a.f4 db black link hover-blue pv1 ph2 {
+	color: white;
+}
+
+div.pa1 w-100{
+	color: white;
+}
+
+h2.Top5 {
+	color: white;
+	font-style: italic;
+}
+
+hr.Top5 {
+
+	background-color: #FFFFFF;
+
+}
+
+hr.vertical {
+	transform:  rotate(90deg);
+}
+
+.here:after {
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+/*div {
+    margin: 10px auto;
+    width: 60%;
+    height: 100px;
+    border: 1px solid #333;
+    position:relative;
+    text-align:center
+}*/
+/*
+.border-right {
+    border-right: 1px solid black;
+}*/
+
+.column {
+  float: left;
+  width: 50%;
+  align-items: left;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
