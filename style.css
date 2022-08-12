@@ -100,3 +100,14 @@ hr.vertical {
   display: table;
   clear: both;
 }
+
+const word = new Word(element, options);
+
+options: {
+  shapesOnTop: false, // shapes on top or beneath the letters
+  totalShapes: 10, // number shapes per letter
+  shapeTypes: ['circle', 'rect', 'polygon'], // type of shapes
+  shapeColors: ['#e07272', '#0805b5', '#49c6ff', '#8bc34a', '#1e1e21'], // pick randomly from these colors
+  shapeFill: true, // if set to false, there's no fill and the stroke gets applied instead
+  shapeStrokeWidth: 1 // the stroke width
+}
